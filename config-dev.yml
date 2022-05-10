@@ -1,2 +1,2 @@
-Spring: 
-  server: 123456
+config:
+  info: "master banch version=1"
